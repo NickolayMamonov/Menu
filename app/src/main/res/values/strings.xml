@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="transition">Переход</string>
+    <string name="settings">Настройки</string>
+    <string name="save">Сохранить</string>
+    <string name="open">Открыть</string>
+</resources>
